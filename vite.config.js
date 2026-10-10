@@ -15,6 +15,6 @@ export default defineConfig({
   },
 
   preview: {
-    allowedHosts: ['greencircle-frontend.seenode.app'],
+    allowedHosts: ['greencircle-app.seenode.app'],
   }
 })
