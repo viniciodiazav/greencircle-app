@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#064e3b" />
+  <g fill="none" stroke="#ffffff" stroke-width="36" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Lucide Recycle path scaled to 512x512 -->
+    <path d="M150 405H103a39 39 0 0 1-33.5-18.8 38 38 0 0 1-.1-38l50.6-87.2" />
+    <path d="M235 405h175a39 39 0 0 0 33.2-19 38 38 0 0 0 0-37.9l-26.2-45.2" />
+    <path d="m299 341 64 64 64-64" />
+    <path d="M177 289 72 107a38 38 0 0 1 .1-38A39 39 0 0 1 105.5 50l79.1.1" />
+    <path d="m85 149 64-64 64 64" />
+    <path d="M335 221 440 39a38 38 0 0 0-.1-38A39 39 0 0 0 406.5-19l-79.1.1" transform="translate(0, 70)" />
+    <path d="m363 149-64-64-64 64" />
+  </g>
+</svg>
